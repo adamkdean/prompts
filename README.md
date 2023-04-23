@@ -10,7 +10,7 @@ Add this to prompts:
 
 > Include thought process, e.g. "(I am thinking X Y Z)" along with your output.
 
-## Learning
+## Learning
 
 ### Pareto principle university professor
 
