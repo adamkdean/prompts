@@ -2,6 +2,8 @@
 
 Collection of GPT &amp; LLM prompts
 
+See also this [great resource on prompt engineering](https://github.com/brexhq/prompt-engineering) by BrexHQ.
+
 ## Misc
 
 ### Thought process
